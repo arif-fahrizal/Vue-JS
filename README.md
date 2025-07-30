@@ -1,5 +1,3 @@
-# Vue Router
-
 ## Project setup
 
 ```
@@ -16,12 +14,6 @@ npm run serve
 
 ```
 npm run build
-```
-
-### Run the json server
-
-```
-json-server --watch data/db.json
 ```
 
 ### Customize configuration
